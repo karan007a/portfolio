@@ -6,6 +6,7 @@ url: "https://karanagarwal.com"
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile

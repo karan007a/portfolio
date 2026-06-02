@@ -1,0 +1,13 @@
+title: Karan Agarwal
+description: Backend Architect with 9+ years of experience building scalable distributed systems, microservices, and real-time infrastructure.
+baseurl: ""
+url: "https://karanagarwal.com"
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

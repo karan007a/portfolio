@@ -1,0 +1,47 @@
+- role: Co-Founder & Technical Architect
+  company: Yaara Social Technologies Pvt. Ltd.
+  location: Bangalore
+  period: May 2025 - Mar 2026
+  highlights:
+    - Architected a 6-service microservices backend in Go (Gin) with clean architecture, each service independently deployable.
+    - Built real-time messaging via WebSocket + Redis Pub/Sub with AES-256-GCM end-to-end encryption.
+    - Implemented JWT-based auth with token rotation, blacklisting, and Redis-backed distributed rate limiting.
+    - Engineered event-driven notification pipeline using RabbitMQ + SendGrid.
+    - Designed and load-tested the platform for 10,000+ concurrent users.
+    - Delivered 60+ documented REST endpoints and led end-to-end Flutter mobile integration.
+
+- role: Independent Research & Product Development
+  company: Self-Directed
+  location: Bangalore
+  period: Aug 2023 - Apr 2025
+  highlights:
+    - Deep hands-on exploration of Go, distributed systems, and event-driven architecture.
+    - Designed and validated product ideas leading to the founding of Yaara.
+
+- role: Senior Backend Engineer to Technical Lead
+  company: EOX Vantage
+  location: Bangalore
+  period: Apr 2018 - Jul 2023
+  highlights:
+    - Owned end-to-end design and delivery of telematics and insurance SaaS platforms for Mercedes-Benz, BMW, Toyota, and Subaru.
+    - Drove microservices adoption, improving deployment velocity and reducing cross-team dependencies.
+    - Architected SSO integrations (Keycloak, SAML) across multiple client-facing applications.
+    - Led OWASP-based security hardening and server performance optimisation.
+    - Mentored junior engineers and established code review standards.
+    - Recognized with an Architect-level role offer based on sustained technical ownership.
+
+- role: Software Engineer
+  company: EOX Vantage
+  location: Bangalore
+  period: Apr 2017 - Apr 2018
+  highlights:
+    - Delivered full-stack features in PHP (Zend Framework 3) and optimised database schemas for scale.
+    - Developed reusable plugins and libraries extending core product capabilities.
+
+- role: Data Engineer / Analyst (R&D)
+  company: EOX Vantage
+  location: Bangalore
+  period: Jun 2016 - Apr 2017
+  highlights:
+    - Automated multi-step data workflows using Talend ETL, reducing manual reporting effort by 60%.
+    - Built reporting pipelines for high-profile insurance clients.

@@ -1,0 +1,46 @@
+- category: Architecture
+  items:
+    - Microservices
+    - Clean Architecture
+    - Event-Driven Systems
+    - REST API Design
+    - Domain-Driven Design
+
+- category: Languages
+  items:
+    - Go
+    - PHP
+    - JavaScript
+    - Node.js
+    - Dart (Flutter)
+    - SQL
+
+- category: Databases & Storage
+  items:
+    - PostgreSQL
+    - MongoDB
+    - MySQL
+    - Redis
+    - ElasticSearch
+    - Apache Solr
+    - MinIO (S3)
+
+- category: Infrastructure
+  items:
+    - Docker
+    - RabbitMQ
+    - Jenkins CI/CD
+    - Linux Administration
+
+- category: Security & Auth
+  items:
+    - JWT Token Rotation
+    - SSO (Keycloak, SAML)
+    - AES-256-GCM Encryption
+    - OWASP Hardening
+
+- category: Real-Time
+  items:
+    - WebSocket
+    - Redis Pub/Sub
+    - Push Notifications
